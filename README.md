@@ -141,7 +141,7 @@ timezone  : depends on the deadline ⚡
 
 ### Let's connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/joy4hezus)
+[![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/hezus_support)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/joy4hezus)
 
 ---
